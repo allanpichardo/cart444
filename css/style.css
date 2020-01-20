@@ -1,0 +1,39 @@
+body {
+    font-family: serif;
+    /*background-image: url("../img/sparkling_star.gif");*/
+    background-color: black;
+    background-repeat: repeat;
+    color: greenyellow;
+    font-size: medium;
+}
+
+a {
+    color: antiquewhite;
+}
+
+.title {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.content {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.images {
+    text-align:center;
+}
+.images img {
+    max-width: 854px;
+}
+.images video {
+    max-width: 854px;
+}
